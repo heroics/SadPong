@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1594347737 source:/home/jordan/Documents/CPP/GameProgrammingInCPP/GameProgrammingInCPP/main.cpp
+	"Game.h"
+	<SDL2/SDL.h>
+	<exception>
+	<iostream>
+	<string>
+
+1594788418 /home/jordan/Documents/CPP/GameProgrammingInCPP/GameProgrammingInCPP/include/Game.h
+	"SDL2/SDL.h"
+	"string"
+
+1594844109 source:/home/jordan/Documents/CPP/GameProgrammingInCPP/GameProgrammingInCPP/src/Game.cpp
+	"Game.h"
+
